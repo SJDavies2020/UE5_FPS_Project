@@ -25023,3 +25023,884 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.26-18.13.01:731][228]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/BluePrints/Character/Animation/FPS_Anim_BP.FPS_Anim_BP
 [2023.06.26-18.13.01:731][228]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Character/FPS_Character.FPS_Character
 [2023.06.26-18.13.01:731][228]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FPS_Shooter.FPS_Shooter
+[2023.06.26-18.13.17:162][300]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2023.06.26-18.15.11:028][246]LogViewport: Scene viewport resized to 1025x898, mode Windowed.
+[2023.06.26-18.15.11:178][248]LogViewport: Scene viewport resized to 420x292, mode Windowed.
+[2023.06.26-18.15.11:313][249]LogViewport: Scene viewport resized to 1025x898, mode Windowed.
+[2023.06.26-18.15.11:468][251]LogViewport: Scene viewport resized to 420x292, mode Windowed.
+[2023.06.26-18.15.11:558][253]LogViewport: Scene viewport resized to 1027x875, mode Windowed.
+[2023.06.26-18.15.11:976][280]LogSlate: Window 'FPS_Character' being destroyed
+[2023.06.26-18.20.34:900][408]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.26-18.20.34:911][408]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.26-18.20.36:508][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-18.20.36:591][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Character/FPS_Character" FILE="F:/UE5_Projects/5_1_FirstPersonShooter/Content/BluePrints/Character/FPS_Character.uasset" SILENT=true
+[2023.06.26-18.20.36:614][460]LogSavePackage: Moving output files for package: /Game/BluePrints/Character/FPS_Character
+[2023.06.26-18.20.36:615][460]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FPS_CharacterC669D65C4F2566310B491A93D9A08B1B.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Content/BluePrints/Character/FPS_Character.uasset'
+[2023.06.26-18.20.36:627][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 35.2 sec)
+[2023.06.26-18.20.36:652][460]AssetCheck: New page: Asset Save: FPS_Character
+[2023.06.26-18.20.36:652][460]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Character/FPS_Character.FPS_Character
+[2023.06.26-18.20.37:906][514]BlueprintLog: New page: Compile FPS_Character
+[2023.06.26-18.20.38:255][514]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2023.06.26-18.21.59:454][210]BlueprintLog: New page: Compile FPS_Character
+[2023.06.26-18.21.59:620][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2023.06.26-18.23.37:578][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.06.26-18.23.37:591][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FPS_Shooter" FILE="F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/Maps/FPS_Shooter_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.26-18.23.46:877][832]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/FPS_Shooter_Auto0
+[2023.06.26-18.23.46:877][832]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FPS_Shooter_Auto0D0C2FB7448ED9A48682AAFB7833E6D73.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/Maps/FPS_Shooter_Auto0.umap'
+[2023.06.26-18.23.46:958][832]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPS_Shooter' took 9.458
+[2023.06.26-18.23.46:959][832]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 9.458
+[2023.06.26-18.23.46:959][832]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Character/FPS_Character] ([2] browsable assets)...
+[2023.06.26-18.23.47:001][832]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Character/FPS_Character.FPS_Character]
+[2023.06.26-18.23.47:001][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Character/FPS_Character]
+[2023.06.26-18.23.47:026][832]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Character/FPS_Character_Auto0
+[2023.06.26-18.23.47:026][832]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FPS_Character_Auto036AC155D49259DE543BC358136DA4D45.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/BluePrints/Character/FPS_Character_Auto0.uasset'
+[2023.06.26-18.23.47:027][832]LogFileHelpers: Auto-saving content packages took 0.068
+[2023.06.26-18.23.49:043][838]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Characters/ParagonLtBelica/FX/Meshes/Heroes/SM_PlasmaShot_Shell) ...
+[2023.06.26-18.23.49:098][838]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Characters/ParagonLtBelica/FX/Meshes/Shapes/SM_Shape_Flowerburst) ...
+[2023.06.26-18.23.49:124][838]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Assets/Characters/ParagonLtBelica/FX/Particles/Belica/Abilities/Primary/FX/P_BelicaMuzzle.P_BelicaMuzzle
+[2023.06.26-18.23.49:184][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.23.49:213][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.23.49:232][838]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AnimTreeEd_PreviewFloor) ...
+[2023.06.26-18.23.50:483][838]LogViewport: Scene viewport resized to 572x424, mode Windowed.
+[2023.06.26-18.23.50:532][838]LogViewport: Scene viewport resized to 1335x513, mode Windowed.
+[2023.06.26-18.23.50:564][838]LogViewport: Scene viewport resized to 1335x259, mode Windowed.
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: ================================================
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Total job queries 872, among them cache hits 263 (30.16%)
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Tracking 589 distinct input hashes that result in 337 distinct outputs (57.22%)
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: RAM used: 2.53 MB (0.00 GB) of 2457.60 MB (2.40 GB) budget. Usage: 0.10%
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Shaders Compiled: 43
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Jobs assigned 51, completed 43 (84.31%)
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Average time worker was idle: 3414.31 s
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Time job spent in pending queue: average 1.77 s, longest 7.03 s
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Job execution time: average 3.04 s, max 8.31 s
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Job life time (pending + execution): average 5.13 s, max 12.34
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 27.79 s
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Jobs were issued in 51 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Average processing rate: 1.55 jobs/sec
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Total thread time: 102.89 s
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Total thread preprocess time: 6.26 s
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Percentage time preprocessing: 6.08%
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Effective parallelization: 3.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    8 times, average 4.63 sec, max 5.91 sec, min 2.82 sec)
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 4.26 sec, max 5.23 sec, min 3.30 sec)
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    5 times, average 2.67 sec, max 3.17 sec, min 2.10 sec)
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 2.46 sec, max 2.78 sec, min 1.99 sec)
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 2.29 sec, max 2.29 sec, min 2.29 sec)
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 36.01% of total time (compiled    8 times, average 4.63 sec, max 5.91 sec, min 2.82 sec)
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 12.98% of total time (compiled    5 times, average 2.67 sec, max 3.17 sec, min 2.10 sec)
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 11.95% of total time (compiled    5 times, average 2.46 sec, max 2.78 sec, min 1.99 sec)
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.29% of total time (compiled    2 times, average 4.26 sec, max 5.23 sec, min 3.30 sec)
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.08% of total time (compiled    5 times, average 1.66 sec, max 1.99 sec, min 1.33 sec)
+[2023.06.26-18.23.50:850][839]LogShaderCompilers: Display: ================================================
+[2023.06.26-18.23.50:857][839]LogViewport: Scene viewport resized to 1335x501, mode Windowed.
+[2023.06.26-18.23.57:835][ 87]LogViewport: Scene viewport resized to 572x417, mode Windowed.
+[2023.06.26-18.23.57:943][ 88]LogViewport: Scene viewport resized to 572x378, mode Windowed.
+[2023.06.26-18.23.58:137][ 89]LogViewport: Scene viewport resized to 572x335, mode Windowed.
+[2023.06.26-18.23.58:289][ 90]LogViewport: Scene viewport resized to 572x336, mode Windowed.
+[2023.06.26-18.23.58:593][ 94]LogViewport: Scene viewport resized to 572x381, mode Windowed.
+[2023.06.26-18.23.58:713][ 95]LogViewport: Scene viewport resized to 572x475, mode Windowed.
+[2023.06.26-18.23.58:786][ 96]LogViewport: Scene viewport resized to 572x505, mode Windowed.
+[2023.06.26-18.23.58:954][ 97]LogViewport: Scene viewport resized to 572x508, mode Windowed.
+[2023.06.26-18.23.59:506][108]LogViewport: Scene viewport resized to 572x496, mode Windowed.
+[2023.06.26-18.23.59:610][109]LogViewport: Scene viewport resized to 572x433, mode Windowed.
+[2023.06.26-18.23.59:702][110]LogViewport: Scene viewport resized to 572x415, mode Windowed.
+[2023.06.26-18.25.18:063][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-18.25.18:182][277]LogSavePackage: Moving output files for package: /Game/Assets/Characters/ParagonLtBelica/FX/Particles/Belica/Abilities/Primary/FX/P_BelicaMuzzle
+[2023.06.26-18.25.18:183][277]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/P_BelicaMuzzle20E9202341F0E731ABFD3DB08B35F20C.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Content/Assets/Characters/ParagonLtBelica/FX/Particles/Belica/Abilities/Primary/FX/P_BelicaMuzzle.uasset'
+[2023.06.26-18.25.18:196][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 35.3 sec)
+[2023.06.26-18.25.18:219][277]AssetCheck: New page: Asset Save: P_BelicaMuzzle
+[2023.06.26-18.25.18:219][277]LogContentValidation: Display: Validating /Script/Engine.ParticleSystem /Game/Assets/Characters/ParagonLtBelica/FX/Particles/Belica/Abilities/Primary/FX/P_BelicaMuzzle.P_BelicaMuzzle
+[2023.06.26-18.25.23:298][650]LogCascade: Quitting Cascade. FXSystem=0x00000ADFEBB0D7D0
+[2023.06.26-18.25.23:330][650]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.25.23:330][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.26.44:467][228]Cmd: MODE ROTGRID=1
+[2023.06.26-18.26.59:974][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-18.27.00:036][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Character/FPS_Character" FILE="F:/UE5_Projects/5_1_FirstPersonShooter/Content/BluePrints/Character/FPS_Character.uasset" SILENT=true
+[2023.06.26-18.27.00:060][ 98]LogSavePackage: Moving output files for package: /Game/BluePrints/Character/FPS_Character
+[2023.06.26-18.27.00:061][ 98]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FPS_CharacterDEBDEDFA4305ED083A15BDA23755FDF8.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Content/BluePrints/Character/FPS_Character.uasset'
+[2023.06.26-18.27.00:071][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 35.4 sec)
+[2023.06.26-18.27.00:095][ 98]AssetCheck: New page: Asset Save: FPS_Character
+[2023.06.26-18.27.00:096][ 98]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Character/FPS_Character.FPS_Character
+[2023.06.26-18.30.09:850][630]BlueprintLog: New page: Compile FPS_Character
+[2023.06.26-18.30.10:100][630]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2023.06.26-18.30.11:924][732]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-18.30.11:947][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-18.30.11:947][732]PIE: New page: PIE session: FPS_Shooter (Jun 26, 2023, 10:30:11 AM)
+[2023.06.26-18.30.11:947][732]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.30.15:641][732]LogPlayLevel: PIE: StaticDuplicateObject took: (3.692911s)
+[2023.06.26-18.30.15:641][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPS_Shooter.FPS_Shooter to /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter (3.692970s)
+[2023.06.26-18.30.15:641][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.30.15:642][732]LogAIModule: Creating AISystem for world FPS_Shooter
+[2023.06.26-18.30.15:648][732]LogPlayLevel: PIE: World Init took: (0.007272s)
+[2023.06.26-18.30.15:774][732]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2023.06.26-18.30.15:783][732]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.06.26-18.30.15:783][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-18.30.15:783][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-18.30.15:783][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-18.30.15:783][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-18.30.15:783][732]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-18.30.15:783][732]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-18.30.15:783][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-18.30.15:783][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-18.30.15:784][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-18.30.15:784][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-18.30.15:784][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-18.30.15:787][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-18.30.15:896][732]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G432 Gaming Headset)
+[2023.06.26-18.30.15:896][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-18.30.15:896][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-18.30.15:896][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-18.30.15:898][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.06.26-18.30.15:898][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=29
+[2023.06.26-18.30.15:900][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.06.26-18.30.15:900][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.06.26-18.30.15:900][732]LogInit: FAudioDevice initialized.
+[2023.06.26-18.30.15:900][732]LogAudio: Display: Audio Device (ID: 29) registered with world 'FPS_Shooter'.
+[2023.06.26-18.30.15:963][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.30.15:963][732]LogLoad: Game class is 'GameModeBase'
+[2023.06.26-18.30.17:456][732]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter up for play (max tick rate 0) at 2023.06.26-14.30.17
+[2023.06.26-18.30.17:466][732]LogWorld: Bringing up level for play took: 1.502576
+[2023.06.26-18.30.17:469][732]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2023.06.26-18.30.17:469][732]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.26-18.30.17:488][732]PIE: Server logged in
+[2023.06.26-18.30.17:489][732]PIE: Play in editor total start time 5.548 seconds.
+[2023.06.26-18.30.18:590][732]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.06.26-18.30.22:964][793]LogShaderCompilers: Display: ================================================
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Total job queries 908, among them cache hits 271 (29.85%)
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Tracking 632 distinct input hashes that result in 377 distinct outputs (59.65%)
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: RAM used: 2.69 MB (0.00 GB) of 2457.60 MB (2.40 GB) budget. Usage: 0.11%
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Shaders Compiled: 86
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Jobs assigned 91, completed 86 (94.51%)
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Average time worker was idle: 1795.77 s
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Time job spent in pending queue: average 4.89 s, longest 15.86 s
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Job execution time: average 3.15 s, max 8.31 s
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Job life time (pending + execution): average 8.32 s, max 17.51
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 48.70 s
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Jobs were issued in 91 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Average processing rate: 1.77 jobs/sec
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Total thread time: 218.91 s
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Total thread preprocess time: 14.18 s
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Percentage time preprocessing: 6.48%
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Effective parallelization: 4.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 4.88 sec, max 5.61 sec, min 3.30 sec)
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   10 times, average 4.83 sec, max 5.91 sec, min 2.82 sec)
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 2.87 sec, max 3.55 sec, min 2.29 sec)
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    5 times, average 2.67 sec, max 3.17 sec, min 2.10 sec)
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    6 times, average 2.43 sec, max 2.78 sec, min 1.99 sec)
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.08% of total time (compiled   10 times, average 4.83 sec, max 5.91 sec, min 2.82 sec)
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.62% of total time (compiled   16 times, average 2.41 sec, max 3.41 sec, min 1.30 sec)
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 13.37% of total time (compiled    6 times, average 4.88 sec, max 5.61 sec, min 3.30 sec)
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.30% of total time (compiled   13 times, average 2.24 sec, max 3.24 sec, min 1.43 sec)
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 6.66% of total time (compiled    6 times, average 2.43 sec, max 2.78 sec, min 1.99 sec)
+[2023.06.26-18.30.22:965][793]LogShaderCompilers: Display: ================================================
+[2023.06.26-18.30.33:417][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.30.33:417][104]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.30.33:419][104]LogSlate: Window 'FirstPersonShooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.06.26-18.30.33:462][104]LogWorld: UWorld::CleanupWorld for FPS_Shooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.30.33:631][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.30.33:669][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-18.30.33:712][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.30.33:915][104]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-18.30.33:966][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.06.26-18.30.33:968][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.06.26-18.30.34:196][104]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2023.06.26-18.30.34:402][105]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2023.06.26-18.31.17:290][381]Cmd: TRANSACTION UNDO
+[2023.06.26-18.31.17:290][381]LogEditorTransaction: Undo Rotate Socket
+[2023.06.26-18.31.17:698][381]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-18.31.17:716][381]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-18.31.24:772][721]Cmd: TRANSACTION UNDO
+[2023.06.26-18.31.24:772][721]LogEditorTransaction: Undo Rotate Socket
+[2023.06.26-18.31.25:174][721]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-18.31.25:181][721]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-18.31.27:854][843]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.31.27:855][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.31.30:595][913]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-18.31.30:610][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-18.31.30:610][913]PIE: New page: PIE session: FPS_Shooter (Jun 26, 2023, 10:31:30 AM)
+[2023.06.26-18.31.30:610][913]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.31.34:391][913]LogPlayLevel: PIE: StaticDuplicateObject took: (3.782354s)
+[2023.06.26-18.31.34:391][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPS_Shooter.FPS_Shooter to /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter (3.782431s)
+[2023.06.26-18.31.34:392][913]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.31.34:393][913]LogAIModule: Creating AISystem for world FPS_Shooter
+[2023.06.26-18.31.34:401][913]LogPlayLevel: PIE: World Init took: (0.009981s)
+[2023.06.26-18.31.34:527][913]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2023.06.26-18.31.34:534][913]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.06.26-18.31.34:534][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-18.31.34:534][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-18.31.34:534][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-18.31.34:534][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-18.31.34:534][913]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-18.31.34:534][913]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-18.31.34:534][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-18.31.34:534][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-18.31.34:535][913]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-18.31.34:535][913]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-18.31.34:535][913]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-18.31.34:537][913]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-18.31.34:635][913]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G432 Gaming Headset)
+[2023.06.26-18.31.34:635][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-18.31.34:635][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-18.31.34:635][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-18.31.34:636][913]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.06.26-18.31.34:637][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=30
+[2023.06.26-18.31.34:638][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.06.26-18.31.34:638][913]LogInit: FAudioDevice initialized.
+[2023.06.26-18.31.34:639][913]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.06.26-18.31.34:639][913]LogAudio: Display: Audio Device (ID: 30) registered with world 'FPS_Shooter'.
+[2023.06.26-18.31.34:651][913]LogLoad: Game class is 'GameModeBase'
+[2023.06.26-18.31.36:081][913]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter up for play (max tick rate 0) at 2023.06.26-14.31.36
+[2023.06.26-18.31.36:091][913]LogWorld: Bringing up level for play took: 1.439694
+[2023.06.26-18.31.36:094][913]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2023.06.26-18.31.36:112][913]PIE: Server logged in
+[2023.06.26-18.31.36:113][913]PIE: Play in editor total start time 5.505 seconds.
+[2023.06.26-18.31.42:277][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.31.42:277][124]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.31.42:290][124]LogWorld: UWorld::CleanupWorld for FPS_Shooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.31.42:450][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.31.42:491][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-18.31.42:536][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.31.42:638][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.31.42:706][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.06.26-18.31.42:709][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.06.26-18.31.43:004][124]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2023.06.26-18.31.43:124][125]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.06.26-18.31.43:886][140]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Characters/Arms/Mesh/Mesh_Arms.Mesh_Arms
+[2023.06.26-18.31.43:887][140]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.31.43:936][140]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-18.31.44:342][140]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2023.06.26-18.31.44:622][140]LogViewport: Scene viewport resized to 892x866, mode Windowed.
+[2023.06.26-18.32.20:847][ 61]Cmd: MODE ROTGRID=0
+[2023.06.26-18.32.26:915][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-18.32.26:972][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Characters/Arms/Mesh/Mesh_Arms" FILE="F:/UE5_Projects/5_1_FirstPersonShooter/Content/Assets/Characters/Arms/Mesh/Mesh_Arms.uasset" SILENT=true
+[2023.06.26-18.32.27:318][350]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Arms/Mesh/Mesh_Arms
+[2023.06.26-18.32.27:319][350]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Mesh_Arms14930AF843AF7AB7BBC4558ED5D8FB51.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Content/Assets/Characters/Arms/Mesh/Mesh_Arms.uasset'
+[2023.06.26-18.32.27:335][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 419 ms (total: 35.8 sec)
+[2023.06.26-18.32.27:386][350]AssetCheck: New page: Asset Save: Mesh_Arms
+[2023.06.26-18.32.27:386][350]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Assets/Characters/Arms/Mesh/Mesh_Arms.Mesh_Arms
+[2023.06.26-18.32.31:602][541]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-18.32.31:617][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-18.32.31:617][541]PIE: New page: PIE session: FPS_Shooter (Jun 26, 2023, 10:32:31 AM)
+[2023.06.26-18.32.31:617][541]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.32.35:395][541]LogPlayLevel: PIE: StaticDuplicateObject took: (3.777797s)
+[2023.06.26-18.32.35:395][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPS_Shooter.FPS_Shooter to /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter (3.777855s)
+[2023.06.26-18.32.35:396][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.32.35:396][541]LogAIModule: Creating AISystem for world FPS_Shooter
+[2023.06.26-18.32.35:403][541]LogPlayLevel: PIE: World Init took: (0.007333s)
+[2023.06.26-18.32.35:507][541]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2023.06.26-18.32.35:514][541]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.06.26-18.32.35:514][541]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-18.32.35:515][541]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-18.32.35:515][541]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-18.32.35:515][541]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-18.32.35:515][541]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-18.32.35:515][541]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-18.32.35:515][541]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-18.32.35:515][541]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-18.32.35:515][541]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-18.32.35:515][541]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-18.32.35:515][541]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-18.32.35:518][541]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-18.32.35:618][541]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G432 Gaming Headset)
+[2023.06.26-18.32.35:618][541]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-18.32.35:618][541]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-18.32.35:618][541]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-18.32.35:620][541]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.06.26-18.32.35:620][541]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=31
+[2023.06.26-18.32.35:622][541]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.06.26-18.32.35:622][541]LogInit: FAudioDevice initialized.
+[2023.06.26-18.32.35:622][541]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.06.26-18.32.35:622][541]LogAudio: Display: Audio Device (ID: 31) registered with world 'FPS_Shooter'.
+[2023.06.26-18.32.35:692][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.32.35:692][541]LogLoad: Game class is 'GameModeBase'
+[2023.06.26-18.32.37:146][541]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter up for play (max tick rate 0) at 2023.06.26-14.32.37
+[2023.06.26-18.32.37:159][541]LogWorld: Bringing up level for play took: 1.466788
+[2023.06.26-18.32.37:162][541]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2023.06.26-18.32.37:163][541]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.26-18.32.37:182][541]PIE: Server logged in
+[2023.06.26-18.32.37:183][541]PIE: Play in editor total start time 5.566 seconds.
+[2023.06.26-18.32.38:294][541]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.06.26-18.32.46:737][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.32.46:737][703]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.32.46:738][703]LogSlate: Window 'FirstPersonShooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.06.26-18.32.46:760][703]LogWorld: UWorld::CleanupWorld for FPS_Shooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.32.46:912][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.32.46:946][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-18.32.46:990][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.32.47:225][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.06.26-18.32.47:228][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.06.26-18.32.47:445][703]LogUObjectHash: Compacting FUObjectHashTables data took   8.92ms
+[2023.06.26-18.32.47:508][704]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.06.26-18.32.56:241][783]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-18.32.56:256][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-18.32.56:256][783]PIE: New page: PIE session: FPS_Shooter (Jun 26, 2023, 10:32:56 AM)
+[2023.06.26-18.32.56:257][783]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.33.00:108][783]LogPlayLevel: PIE: StaticDuplicateObject took: (3.851851s)
+[2023.06.26-18.33.00:108][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPS_Shooter.FPS_Shooter to /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter (3.851926s)
+[2023.06.26-18.33.00:109][783]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.33.00:109][783]LogAIModule: Creating AISystem for world FPS_Shooter
+[2023.06.26-18.33.00:116][783]LogPlayLevel: PIE: World Init took: (0.007366s)
+[2023.06.26-18.33.00:224][783]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2023.06.26-18.33.00:231][783]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.06.26-18.33.00:231][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-18.33.00:231][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-18.33.00:231][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-18.33.00:231][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-18.33.00:231][783]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-18.33.00:231][783]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-18.33.00:231][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-18.33.00:231][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-18.33.00:233][783]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-18.33.00:233][783]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-18.33.00:233][783]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-18.33.00:236][783]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-18.33.00:338][783]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G432 Gaming Headset)
+[2023.06.26-18.33.00:338][783]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-18.33.00:338][783]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-18.33.00:338][783]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-18.33.00:339][783]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.06.26-18.33.00:339][783]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=32
+[2023.06.26-18.33.00:342][783]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.06.26-18.33.00:342][783]LogInit: FAudioDevice initialized.
+[2023.06.26-18.33.00:342][783]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.06.26-18.33.00:342][783]LogAudio: Display: Audio Device (ID: 32) registered with world 'FPS_Shooter'.
+[2023.06.26-18.33.00:408][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.33.00:409][783]LogLoad: Game class is 'GameModeBase'
+[2023.06.26-18.33.01:979][783]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter up for play (max tick rate 0) at 2023.06.26-14.33.01
+[2023.06.26-18.33.01:989][783]LogWorld: Bringing up level for play took: 1.580049
+[2023.06.26-18.33.01:992][783]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.06.26-18.33.01:993][783]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.26-18.33.02:015][783]PIE: Server logged in
+[2023.06.26-18.33.02:016][783]PIE: Play in editor total start time 5.761 seconds.
+[2023.06.26-18.33.03:177][783]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.06.26-18.33.09:966][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.33.09:966][906]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.33.09:967][906]LogSlate: Window 'FirstPersonShooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.06.26-18.33.09:989][906]LogWorld: UWorld::CleanupWorld for FPS_Shooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.33.10:150][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.33.10:163][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-18.33.10:206][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.33.10:414][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.06.26-18.33.10:416][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.06.26-18.33.10:682][906]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2023.06.26-18.33.10:739][907]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.06.26-18.34.49:431][268]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2023.06.26-18.34.49:448][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FPS_Shooter" FILE="F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/Maps/FPS_Shooter_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.26-18.34.58:673][268]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/FPS_Shooter_Auto1
+[2023.06.26-18.34.58:674][268]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FPS_Shooter_Auto16DE51D5F4CBACFF5590DDC8AED7DF7B5.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/Maps/FPS_Shooter_Auto1.umap'
+[2023.06.26-18.34.58:754][268]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPS_Shooter' took 9.420
+[2023.06.26-18.34.58:754][268]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 9.420
+[2023.06.26-18.34.58:755][268]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Character/FPS_Character] ([2] browsable assets)...
+[2023.06.26-18.34.58:794][268]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Character/FPS_Character.FPS_Character]
+[2023.06.26-18.34.58:794][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Character/FPS_Character]
+[2023.06.26-18.34.58:821][268]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Character/FPS_Character_Auto1
+[2023.06.26-18.34.58:821][268]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FPS_Character_Auto14D7AA0A141A7125B34E402BDE4EA29B7.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/BluePrints/Character/FPS_Character_Auto1.uasset'
+[2023.06.26-18.34.58:822][268]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton] ([1] browsable assets)...
+[2023.06.26-18.34.58:822][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton]
+[2023.06.26-18.34.58:826][268]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton_Auto1
+[2023.06.26-18.34.58:826][268]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/SK_Mannequin_Arms_Skeleton_Auto18A1F712743575F2DB8A29B8033B6ABAF.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton_Auto1.uasset'
+[2023.06.26-18.34.58:826][268]LogFileHelpers: Auto-saving content packages took 0.072
+[2023.06.26-18.35.32:765][400]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Assets/Characters/ParagonLtBelica/FX/Particles/Belica/Abilities/Primary/FX/P_BelicaMuzzle.P_BelicaMuzzle
+[2023.06.26-18.35.32:767][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.35.32:789][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.35.32:922][400]LogViewport: Scene viewport resized to 572x415, mode Windowed.
+[2023.06.26-18.35.32:979][400]LogViewport: Scene viewport resized to 1335x513, mode Windowed.
+[2023.06.26-18.35.33:009][400]LogViewport: Scene viewport resized to 1335x259, mode Windowed.
+[2023.06.26-18.35.33:114][401]LogViewport: Scene viewport resized to 1335x501, mode Windowed.
+[2023.06.26-18.36.04:071][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-18.36.04:189][851]LogSavePackage: Moving output files for package: /Game/Assets/Characters/ParagonLtBelica/FX/Particles/Belica/Abilities/Primary/FX/P_BelicaMuzzle
+[2023.06.26-18.36.04:190][851]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/P_BelicaMuzzle70E52DEA4BD81C5A9D6817BB7128C7AD.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Content/Assets/Characters/ParagonLtBelica/FX/Particles/Belica/Abilities/Primary/FX/P_BelicaMuzzle.uasset'
+[2023.06.26-18.36.04:200][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 35.9 sec)
+[2023.06.26-18.36.04:219][851]AssetCheck: New page: Asset Save: P_BelicaMuzzle
+[2023.06.26-18.36.04:220][851]LogContentValidation: Display: Validating /Script/Engine.ParticleSystem /Game/Assets/Characters/ParagonLtBelica/FX/Particles/Belica/Abilities/Primary/FX/P_BelicaMuzzle.P_BelicaMuzzle
+[2023.06.26-18.36.08:359][137]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-18.36.08:378][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-18.36.08:378][137]PIE: New page: PIE session: FPS_Shooter (Jun 26, 2023, 10:36:08 AM)
+[2023.06.26-18.36.08:378][137]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.36.12:015][137]LogPlayLevel: PIE: StaticDuplicateObject took: (3.637220s)
+[2023.06.26-18.36.12:015][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPS_Shooter.FPS_Shooter to /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter (3.637275s)
+[2023.06.26-18.36.12:015][137]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.36.12:016][137]LogAIModule: Creating AISystem for world FPS_Shooter
+[2023.06.26-18.36.12:023][137]LogPlayLevel: PIE: World Init took: (0.007308s)
+[2023.06.26-18.36.12:113][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2023.06.26-18.36.12:117][137]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.06.26-18.36.12:117][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-18.36.12:117][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-18.36.12:117][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-18.36.12:117][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-18.36.12:117][137]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-18.36.12:117][137]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-18.36.12:117][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-18.36.12:117][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-18.36.12:118][137]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-18.36.12:118][137]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-18.36.12:118][137]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-18.36.12:121][137]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-18.36.12:229][137]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G432 Gaming Headset)
+[2023.06.26-18.36.12:229][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-18.36.12:229][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-18.36.12:229][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-18.36.12:230][137]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.06.26-18.36.12:230][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=33
+[2023.06.26-18.36.12:233][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.06.26-18.36.12:233][137]LogInit: FAudioDevice initialized.
+[2023.06.26-18.36.12:233][137]LogAudio: Display: Audio Device (ID: 33) registered with world 'FPS_Shooter'.
+[2023.06.26-18.36.12:233][137]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.06.26-18.36.12:281][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.36.12:282][137]LogLoad: Game class is 'GameModeBase'
+[2023.06.26-18.36.13:666][137]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter up for play (max tick rate 0) at 2023.06.26-14.36.13
+[2023.06.26-18.36.13:676][137]LogWorld: Bringing up level for play took: 1.394174
+[2023.06.26-18.36.13:679][137]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2023.06.26-18.36.13:679][137]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.26-18.36.13:696][137]PIE: Server logged in
+[2023.06.26-18.36.13:698][137]PIE: Play in editor total start time 5.327 seconds.
+[2023.06.26-18.36.14:708][137]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.06.26-18.36.24:837][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.36.24:837][454]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.36.24:838][454]LogSlate: Window 'FirstPersonShooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.06.26-18.36.24:892][454]LogWorld: UWorld::CleanupWorld for FPS_Shooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.36.25:040][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.36.25:074][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-18.36.25:110][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.36.25:201][454]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-18.36.25:201][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.06.26-18.36.25:204][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.06.26-18.36.25:485][454]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2023.06.26-18.36.25:616][455]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2023.06.26-18.37.04:120][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-18.37.04:240][464]LogSavePackage: Moving output files for package: /Game/Assets/Characters/ParagonLtBelica/FX/Particles/Belica/Abilities/Primary/FX/P_BelicaMuzzle
+[2023.06.26-18.37.04:240][464]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/P_BelicaMuzzleE09E5D0E40C65204316F6595DEB73710.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Content/Assets/Characters/ParagonLtBelica/FX/Particles/Belica/Abilities/Primary/FX/P_BelicaMuzzle.uasset'
+[2023.06.26-18.37.04:251][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 36.1 sec)
+[2023.06.26-18.37.04:271][464]AssetCheck: New page: Asset Save: P_BelicaMuzzle
+[2023.06.26-18.37.04:271][464]LogContentValidation: Display: Validating /Script/Engine.ParticleSystem /Game/Assets/Characters/ParagonLtBelica/FX/Particles/Belica/Abilities/Primary/FX/P_BelicaMuzzle.P_BelicaMuzzle
+[2023.06.26-18.37.06:911][643]LogCascade: Quitting Cascade. FXSystem=0x00000AE050FDB9A0
+[2023.06.26-18.37.06:936][643]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.37.06:936][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.37.56:383][ 58]BlueprintLog: New page: Compile FPS_Character
+[2023.06.26-18.37.56:564][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2023.06.26-18.37.59:617][301]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-18.37.59:635][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-18.37.59:635][301]PIE: New page: PIE session: FPS_Shooter (Jun 26, 2023, 10:37:59 AM)
+[2023.06.26-18.37.59:635][301]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.38.03:202][301]LogPlayLevel: PIE: StaticDuplicateObject took: (3.566525s)
+[2023.06.26-18.38.03:202][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPS_Shooter.FPS_Shooter to /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter (3.566579s)
+[2023.06.26-18.38.03:202][301]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.38.03:202][301]LogAIModule: Creating AISystem for world FPS_Shooter
+[2023.06.26-18.38.03:208][301]LogPlayLevel: PIE: World Init took: (0.006354s)
+[2023.06.26-18.38.03:296][301]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2023.06.26-18.38.03:300][301]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.06.26-18.38.03:300][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-18.38.03:300][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-18.38.03:300][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-18.38.03:300][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-18.38.03:300][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-18.38.03:300][301]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-18.38.03:300][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-18.38.03:300][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-18.38.03:301][301]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-18.38.03:301][301]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-18.38.03:301][301]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-18.38.03:303][301]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-18.38.03:400][301]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G432 Gaming Headset)
+[2023.06.26-18.38.03:401][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-18.38.03:401][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-18.38.03:401][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-18.38.03:402][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.06.26-18.38.03:402][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=34
+[2023.06.26-18.38.03:404][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.06.26-18.38.03:404][301]LogInit: FAudioDevice initialized.
+[2023.06.26-18.38.03:404][301]LogAudio: Display: Audio Device (ID: 34) registered with world 'FPS_Shooter'.
+[2023.06.26-18.38.03:404][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.06.26-18.38.03:459][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.38.03:459][301]LogLoad: Game class is 'GameModeBase'
+[2023.06.26-18.38.04:857][301]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter up for play (max tick rate 0) at 2023.06.26-14.38.04
+[2023.06.26-18.38.04:864][301]LogWorld: Bringing up level for play took: 1.405272
+[2023.06.26-18.38.04:867][301]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2023.06.26-18.38.04:867][301]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.26-18.38.04:885][301]PIE: Server logged in
+[2023.06.26-18.38.04:886][301]PIE: Play in editor total start time 5.257 seconds.
+[2023.06.26-18.38.05:891][301]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.06.26-18.38.22:407][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.38.22:407][823]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.38.22:408][823]LogSlate: Window 'FirstPersonShooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.06.26-18.38.22:452][823]LogWorld: UWorld::CleanupWorld for FPS_Shooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.38.22:596][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.38.22:631][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-18.38.22:667][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.38.22:764][823]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-18.38.22:860][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.06.26-18.38.22:862][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.06.26-18.38.23:046][823]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2023.06.26-18.38.23:202][824]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2023.06.26-18.41.15:831][867]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.41.15:831][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.42.29:549][645]LogSlate: Window 'Pick Skeleton' being destroyed
+[2023.06.26-18.42.29:567][645]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2023.06.26-18.42.29:578][645]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2023.06.26-18.42.29:611][646]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2023.06.26-18.42.35:655][820]LogContentBrowser: Attempting asset rename: NewAnimMontage -> AirFireMontage
+[2023.06.26-18.42.35:880][820]LogContentBrowser: End creating deferred item NewAnimMontage
+[2023.06.26-18.42.37:797][871]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/BluePrints/Character/Animation/AirFireMontage.AirFireMontage
+[2023.06.26-18.42.37:797][871]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.42.37:840][871]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-18.42.38:287][871]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.42.38:670][871]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.06.26-18.42.44:686][900]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.26-18.42.45:396][909]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.06.26-18.44.17:331][113]LogScript: Error: Script Msg: /Game/BluePrints/Character/Animation/AirFireMontage : Invalid play length value provided: 0 seconds
+[2023.06.26-18.44.58:609][781]LogScript: Error: Script Msg: /Game/BluePrints/Character/Animation/AirFireMontage : Invalid play length value provided: 0 seconds
+[2023.06.26-18.45.16:571][107]LogScript: Error: Script Msg: /Game/BluePrints/Character/Animation/AirFireMontage : Invalid play length value provided: 0 seconds
+[2023.06.26-18.45.21:906][199]LogScript: Error: Script Msg: /Game/BluePrints/Character/Animation/AirFireMontage : Invalid play length value provided: 0 seconds
+[2023.06.26-18.46.58:825][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.46.58:892][435]LogViewport: Scene viewport resized to 315x240, mode Windowed.
+[2023.06.26-18.48.02:019][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-18.48.02:117][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Character/Animation/AirFireMontage" FILE="F:/UE5_Projects/5_1_FirstPersonShooter/Content/BluePrints/Character/Animation/AirFireMontage.uasset" SILENT=true
+[2023.06.26-18.48.02:121][909]LogSavePackage: Moving output files for package: /Game/BluePrints/Character/Animation/AirFireMontage
+[2023.06.26-18.48.02:121][909]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/AirFireMontageC43F908E4FAB74D4925706843659CAEC.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Content/BluePrints/Character/Animation/AirFireMontage.uasset'
+[2023.06.26-18.48.03:689][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.66 sec (total: 37.7 sec)
+[2023.06.26-18.48.03:718][909]AssetCheck: New page: Asset Save: AirFireMontage
+[2023.06.26-18.48.03:718][909]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/BluePrints/Character/Animation/AirFireMontage.AirFireMontage
+[2023.06.26-18.48.05:205][928]LogSlate: Window 'AirFireMontage' being destroyed
+[2023.06.26-18.48.05:295][928]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.48.05:295][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.48.05:465][928]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.48.05:465][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.48.05:496][928]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.48.05:496][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.50.14:995][927]LogDerivedDataCache: C:/Users/steven davies/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:29.312 and deleted 0 files with total size 0 MiB. Scanned 48741 files in 41430 folders with total size 5910 MiB.
+[2023.06.26-18.52.34:393][282]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2023.06.26-18.52.34:407][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FPS_Shooter" FILE="F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/Maps/FPS_Shooter_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.26-18.52.43:727][282]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/FPS_Shooter_Auto2
+[2023.06.26-18.52.43:727][282]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FPS_Shooter_Auto25AD0DC3F43D3EB79FA4AAC8D3C0A4266.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/Maps/FPS_Shooter_Auto2.umap'
+[2023.06.26-18.52.43:811][282]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPS_Shooter' took 9.539
+[2023.06.26-18.52.43:811][282]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 9.539
+[2023.06.26-18.52.43:811][282]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Character/FPS_Character] ([2] browsable assets)...
+[2023.06.26-18.52.43:848][282]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Character/FPS_Character.FPS_Character]
+[2023.06.26-18.52.43:848][282]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Character/FPS_Character]
+[2023.06.26-18.52.43:877][282]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Character/FPS_Character_Auto2
+[2023.06.26-18.52.43:877][282]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FPS_Character_Auto2781DC5BA443E161E1447D482B56D7C28.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/BluePrints/Character/FPS_Character_Auto2.uasset'
+[2023.06.26-18.52.43:878][282]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton] ([1] browsable assets)...
+[2023.06.26-18.52.43:878][282]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton]
+[2023.06.26-18.52.43:882][282]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton_Auto2
+[2023.06.26-18.52.43:883][282]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/SK_Mannequin_Arms_Skeleton_Auto225886E44487B5465354D00BE1738BA20.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton_Auto2.uasset'
+[2023.06.26-18.52.43:884][282]LogFileHelpers: Auto-saving content packages took 0.072
+[2023.06.26-18.53.39:708][267]LogSlate: Window 'Pick Skeleton' being destroyed
+[2023.06.26-18.53.39:728][267]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2023.06.26-18.53.39:747][267]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2023.06.26-18.53.39:775][268]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2023.06.26-18.53.46:790][724]LogContentBrowser: Attempting asset rename: NewAnimMontage -> FireMontage
+[2023.06.26-18.53.46:966][724]LogContentBrowser: End creating deferred item NewAnimMontage
+[2023.06.26-18.53.48:433][800]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/BluePrints/Character/Animation/FireMontage.FireMontage
+[2023.06.26-18.53.48:434][800]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.53.48:453][800]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-18.53.48:910][800]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.53.49:345][800]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.06.26-18.53.51:709][869]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.26-18.53.58:108][ 77]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.06.26-18.54.06:090][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Arms/Arms_Animations/Arms_Fire.Arms_Fire
+[2023.06.26-18.54.31:678][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.54.31:753][158]LogViewport: Scene viewport resized to 315x240, mode Windowed.
+[2023.06.26-18.54.47:786][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-18.54.47:860][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Character/Animation/FireMontage" FILE="F:/UE5_Projects/5_1_FirstPersonShooter/Content/BluePrints/Character/Animation/FireMontage.uasset" SILENT=true
+[2023.06.26-18.54.47:863][608]LogSavePackage: Moving output files for package: /Game/BluePrints/Character/Animation/FireMontage
+[2023.06.26-18.54.47:863][608]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FireMontageB61D81C04AAC40BA030A9698A6C8FE49.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Content/BluePrints/Character/Animation/FireMontage.uasset'
+[2023.06.26-18.54.48:704][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 918 ms (total: 38.7 sec)
+[2023.06.26-18.54.48:727][608]AssetCheck: New page: Asset Save: FireMontage
+[2023.06.26-18.54.48:727][608]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/BluePrints/Character/Animation/FireMontage.FireMontage
+[2023.06.26-18.54.50:338][647]LogSlate: Window 'FireMontage' being destroyed
+[2023.06.26-18.54.50:386][647]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.54.50:386][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.54.50:511][647]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.54.50:511][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.54.50:525][647]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.54.50:526][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.55.41:280][171]LogEditorTransaction: Undo Move Node
+[2023.06.26-18.55.41:570][171]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-18.58.24:297][394]BlueprintLog: New page: Compile FPS_Character
+[2023.06.26-18.58.24:514][394]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2023.06.26-18.58.28:370][630]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-18.58.28:392][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-18.58.28:392][630]PIE: New page: PIE session: FPS_Shooter (Jun 26, 2023, 10:58:28 AM)
+[2023.06.26-18.58.28:393][630]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.58.32:190][630]LogPlayLevel: PIE: StaticDuplicateObject took: (3.798004s)
+[2023.06.26-18.58.32:191][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPS_Shooter.FPS_Shooter to /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter (3.798063s)
+[2023.06.26-18.58.32:191][630]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-18.58.32:192][630]LogAIModule: Creating AISystem for world FPS_Shooter
+[2023.06.26-18.58.32:199][630]LogPlayLevel: PIE: World Init took: (0.008030s)
+[2023.06.26-18.58.32:303][630]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2023.06.26-18.58.32:309][630]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.06.26-18.58.32:309][630]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-18.58.32:309][630]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-18.58.32:309][630]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-18.58.32:309][630]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-18.58.32:309][630]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-18.58.32:309][630]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-18.58.32:309][630]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-18.58.32:309][630]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-18.58.32:310][630]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-18.58.32:310][630]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-18.58.32:310][630]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-18.58.32:314][630]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-18.58.32:415][630]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G432 Gaming Headset)
+[2023.06.26-18.58.32:415][630]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-18.58.32:415][630]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-18.58.32:415][630]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-18.58.32:417][630]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.06.26-18.58.32:417][630]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=35
+[2023.06.26-18.58.32:419][630]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.06.26-18.58.32:419][630]LogInit: FAudioDevice initialized.
+[2023.06.26-18.58.32:419][630]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.06.26-18.58.32:419][630]LogAudio: Display: Audio Device (ID: 35) registered with world 'FPS_Shooter'.
+[2023.06.26-18.58.32:487][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.58.32:487][630]LogLoad: Game class is 'GameModeBase'
+[2023.06.26-18.58.33:977][630]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter up for play (max tick rate 0) at 2023.06.26-14.58.33
+[2023.06.26-18.58.33:987][630]LogWorld: Bringing up level for play took: 1.498411
+[2023.06.26-18.58.33:990][630]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2023.06.26-18.58.33:990][630]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.26-18.58.34:011][630]PIE: Server logged in
+[2023.06.26-18.58.34:012][630]PIE: Play in editor total start time 5.627 seconds.
+[2023.06.26-18.58.35:129][630]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.06.26-18.58.43:047][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-18.58.43:047][842]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-18.58.43:048][842]LogSlate: Window 'FirstPersonShooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.06.26-18.58.43:089][842]LogWorld: UWorld::CleanupWorld for FPS_Shooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-18.58.43:250][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.58.43:298][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-18.58.43:340][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-18.58.43:587][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.06.26-18.58.43:589][842]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.06.26-18.58.43:796][842]LogUObjectHash: Compacting FUObjectHashTables data took   8.48ms
+[2023.06.26-18.58.43:983][843]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2023.06.26-18.59.02:151][200]BlueprintLog: New page: Compile FPS_Character
+[2023.06.26-18.59.02:166][200]LogBlueprint: Error: [AssetLog] F:\UE5_Projects\5_1_FirstPersonShooter\Content\BluePrints\Character\FPS_Character.uasset: [Compiler] This blueprint (self) is not a AnimInstance, therefore ' Target ' must have a connection.
+[2023.06.26-18.59.02:340][200]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2023.06.26-19.01.06:389][844]BlueprintLog: New page: Compile FPS_Character
+[2023.06.26-19.01.06:539][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2023.06.26-19.01.08:178][967]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-19.01.08:198][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-19.01.08:198][967]PIE: New page: PIE session: FPS_Shooter (Jun 26, 2023, 11:01:08 AM)
+[2023.06.26-19.01.08:198][967]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-19.01.11:763][967]LogPlayLevel: PIE: StaticDuplicateObject took: (3.565140s)
+[2023.06.26-19.01.11:763][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPS_Shooter.FPS_Shooter to /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter (3.565192s)
+[2023.06.26-19.01.11:763][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-19.01.11:764][967]LogAIModule: Creating AISystem for world FPS_Shooter
+[2023.06.26-19.01.11:770][967]LogPlayLevel: PIE: World Init took: (0.006582s)
+[2023.06.26-19.01.11:858][967]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2023.06.26-19.01.11:862][967]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.06.26-19.01.11:862][967]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-19.01.11:862][967]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-19.01.11:862][967]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-19.01.11:862][967]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-19.01.11:862][967]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-19.01.11:862][967]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-19.01.11:862][967]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-19.01.11:862][967]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-19.01.11:863][967]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-19.01.11:863][967]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-19.01.11:863][967]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-19.01.11:866][967]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-19.01.11:965][967]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G432 Gaming Headset)
+[2023.06.26-19.01.11:965][967]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-19.01.11:965][967]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-19.01.11:965][967]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-19.01.11:967][967]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2023.06.26-19.01.11:967][967]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=36
+[2023.06.26-19.01.11:970][967]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2023.06.26-19.01.11:970][967]LogInit: FAudioDevice initialized.
+[2023.06.26-19.01.11:970][967]LogAudio: Display: Audio Device (ID: 36) registered with world 'FPS_Shooter'.
+[2023.06.26-19.01.11:970][967]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2023.06.26-19.01.12:028][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-19.01.12:029][967]LogLoad: Game class is 'GameModeBase'
+[2023.06.26-19.01.13:440][967]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter up for play (max tick rate 0) at 2023.06.26-15.01.13
+[2023.06.26-19.01.13:448][967]LogWorld: Bringing up level for play took: 1.418403
+[2023.06.26-19.01.13:450][967]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2023.06.26-19.01.13:451][967]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.26-19.01.13:468][967]PIE: Server logged in
+[2023.06.26-19.01.13:470][967]PIE: Play in editor total start time 5.277 seconds.
+[2023.06.26-19.01.14:491][967]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.06.26-19.01.32:327][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-19.01.32:327][531]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-19.01.32:328][531]LogSlate: Window 'FirstPersonShooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.06.26-19.01.32:370][531]LogWorld: UWorld::CleanupWorld for FPS_Shooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-19.01.32:523][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-19.01.32:568][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-19.01.32:603][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-19.01.32:794][531]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-19.01.32:794][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.06.26-19.01.32:796][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.06.26-19.01.32:966][531]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2023.06.26-19.01.33:130][532]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2023.06.26-19.03.26:047][220]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2023.06.26-19.03.26:059][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FPS_Shooter" FILE="F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/Maps/FPS_Shooter_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.26-19.03.35:484][220]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/FPS_Shooter_Auto3
+[2023.06.26-19.03.35:484][220]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FPS_Shooter_Auto38CAB33B04B3AD3CEC939E691B1D9F2AB.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/Maps/FPS_Shooter_Auto3.umap'
+[2023.06.26-19.03.35:579][220]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPS_Shooter' took 9.616
+[2023.06.26-19.03.35:579][220]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 9.616
+[2023.06.26-19.03.35:579][220]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Character/FPS_Character] ([2] browsable assets)...
+[2023.06.26-19.03.35:635][220]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Character/FPS_Character.FPS_Character]
+[2023.06.26-19.03.35:635][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Character/FPS_Character]
+[2023.06.26-19.03.35:666][220]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Character/FPS_Character_Auto3
+[2023.06.26-19.03.35:666][220]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FPS_Character_Auto3CE7389204D248953F64190AC85D63D63.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/BluePrints/Character/FPS_Character_Auto3.uasset'
+[2023.06.26-19.03.35:667][220]LogFileHelpers: Auto-saving content packages took 0.088
+[2023.06.26-19.03.37:497][341]Cmd: TRANSACTION UNDO
+[2023.06.26-19.03.37:498][341]LogEditorTransaction: Undo Create Pin Link
+[2023.06.26-19.03.37:772][341]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-19.03.40:182][502]Cmd: TRANSACTION UNDO
+[2023.06.26-19.03.40:182][502]LogEditorTransaction: Undo Move Node
+[2023.06.26-19.03.40:468][502]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-19.03.44:928][902]Cmd: TRANSACTION REDO
+[2023.06.26-19.03.44:928][902]LogEditorTransaction: Redo Move Node
+[2023.06.26-19.03.45:193][902]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-19.03.47:723][ 98]Cmd: TRANSACTION REDO
+[2023.06.26-19.03.47:723][ 98]LogEditorTransaction: Redo Create Pin Link
+[2023.06.26-19.03.47:992][ 98]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-19.03.59:612][ 58]BlueprintLog: New page: Compile FPS_Character
+[2023.06.26-19.03.59:774][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.06.26-19.04.02:402][219]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-19.04.02:421][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-19.04.02:421][219]PIE: New page: PIE session: FPS_Shooter (Jun 26, 2023, 11:04:02 AM)
+[2023.06.26-19.04.02:421][219]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-19.04.06:007][219]LogPlayLevel: PIE: StaticDuplicateObject took: (3.585995s)
+[2023.06.26-19.04.06:007][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPS_Shooter.FPS_Shooter to /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter (3.586044s)
+[2023.06.26-19.04.06:008][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-19.04.06:008][219]LogAIModule: Creating AISystem for world FPS_Shooter
+[2023.06.26-19.04.06:014][219]LogPlayLevel: PIE: World Init took: (0.006989s)
+[2023.06.26-19.04.06:104][219]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2023.06.26-19.04.06:109][219]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.06.26-19.04.06:109][219]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-19.04.06:109][219]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-19.04.06:109][219]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-19.04.06:109][219]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-19.04.06:109][219]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-19.04.06:109][219]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-19.04.06:109][219]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-19.04.06:109][219]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-19.04.06:110][219]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-19.04.06:110][219]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-19.04.06:110][219]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-19.04.06:112][219]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-19.04.06:210][219]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G432 Gaming Headset)
+[2023.06.26-19.04.06:210][219]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-19.04.06:210][219]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-19.04.06:210][219]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-19.04.06:211][219]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2023.06.26-19.04.06:211][219]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=37
+[2023.06.26-19.04.06:213][219]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2023.06.26-19.04.06:213][219]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2023.06.26-19.04.06:213][219]LogInit: FAudioDevice initialized.
+[2023.06.26-19.04.06:213][219]LogAudio: Display: Audio Device (ID: 37) registered with world 'FPS_Shooter'.
+[2023.06.26-19.04.06:274][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-19.04.06:274][219]LogLoad: Game class is 'GameModeBase'
+[2023.06.26-19.04.07:704][219]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter up for play (max tick rate 0) at 2023.06.26-15.04.07
+[2023.06.26-19.04.07:712][219]LogWorld: Bringing up level for play took: 1.437441
+[2023.06.26-19.04.07:714][219]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2023.06.26-19.04.07:715][219]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.26-19.04.07:730][219]PIE: Server logged in
+[2023.06.26-19.04.07:731][219]PIE: Play in editor total start time 5.317 seconds.
+[2023.06.26-19.04.08:770][219]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.06.26-19.04.16:017][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-19.04.16:017][427]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-19.04.16:018][427]LogSlate: Window 'FirstPersonShooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.06.26-19.04.16:064][427]LogWorld: UWorld::CleanupWorld for FPS_Shooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-19.04.16:210][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-19.04.16:255][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-19.04.16:290][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-19.04.16:379][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.06.26-19.04.16:381][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.06.26-19.04.16:664][427]LogUObjectHash: Compacting FUObjectHashTables data took   8.57ms
+[2023.06.26-19.04.16:817][428]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2023.06.26-19.05.09:922][950]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/BluePrints/Character/Animation/FireMontage.FireMontage
+[2023.06.26-19.05.09:922][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-19.05.09:956][950]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-19.05.10:435][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-19.05.10:838][950]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.06.26-19.05.27:000][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-19.05.27:072][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Character/Animation/FireMontage" FILE="F:/UE5_Projects/5_1_FirstPersonShooter/Content/BluePrints/Character/Animation/FireMontage.uasset" SILENT=true
+[2023.06.26-19.05.27:075][386]LogSavePackage: Moving output files for package: /Game/BluePrints/Character/Animation/FireMontage
+[2023.06.26-19.05.27:076][386]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FireMontage8AA0CBD74999D48F0B76FD8CAFF6ABC2.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Content/BluePrints/Character/Animation/FireMontage.uasset'
+[2023.06.26-19.05.27:089][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 38.7 sec)
+[2023.06.26-19.05.27:112][386]AssetCheck: New page: Asset Save: FireMontage
+[2023.06.26-19.05.27:112][386]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/BluePrints/Character/Animation/FireMontage.FireMontage
+[2023.06.26-19.05.46:855][988]LogSlate: Window 'FireMontage' being destroyed
+[2023.06.26-19.05.46:862][988]LogSlate: Window 'FireMontage' being destroyed
+[2023.06.26-19.05.46:912][988]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-19.05.46:912][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-19.05.47:040][988]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-19.05.47:040][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-19.06.12:793][927]BlueprintLog: New page: Compile FPS_Character
+[2023.06.26-19.06.12:968][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2023.06.26-19.06.14:980][ 66]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-19.06.14:999][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-19.06.14:999][ 66]PIE: New page: PIE session: FPS_Shooter (Jun 26, 2023, 11:06:14 AM)
+[2023.06.26-19.06.14:999][ 66]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-19.06.18:599][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (3.600194s)
+[2023.06.26-19.06.18:599][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPS_Shooter.FPS_Shooter to /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter (3.600241s)
+[2023.06.26-19.06.18:599][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-19.06.18:600][ 66]LogAIModule: Creating AISystem for world FPS_Shooter
+[2023.06.26-19.06.18:606][ 66]LogPlayLevel: PIE: World Init took: (0.006579s)
+[2023.06.26-19.06.18:692][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2023.06.26-19.06.18:696][ 66]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.06.26-19.06.18:696][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-19.06.18:696][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-19.06.18:696][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-19.06.18:696][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-19.06.18:696][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-19.06.18:696][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-19.06.18:696][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-19.06.18:696][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-19.06.18:697][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-19.06.18:697][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-19.06.18:697][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-19.06.18:699][ 66]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-19.06.18:797][ 66]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G432 Gaming Headset)
+[2023.06.26-19.06.18:797][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-19.06.18:797][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-19.06.18:797][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-19.06.18:798][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2023.06.26-19.06.18:798][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=38
+[2023.06.26-19.06.18:800][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2023.06.26-19.06.18:800][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2023.06.26-19.06.18:800][ 66]LogInit: FAudioDevice initialized.
+[2023.06.26-19.06.18:800][ 66]LogAudio: Display: Audio Device (ID: 38) registered with world 'FPS_Shooter'.
+[2023.06.26-19.06.18:853][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-19.06.18:853][ 66]LogLoad: Game class is 'GameModeBase'
+[2023.06.26-19.06.20:307][ 66]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPS_Shooter.FPS_Shooter up for play (max tick rate 0) at 2023.06.26-15.06.20
+[2023.06.26-19.06.20:315][ 66]LogWorld: Bringing up level for play took: 1.461072
+[2023.06.26-19.06.20:318][ 66]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2023.06.26-19.06.20:318][ 66]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.26-19.06.20:335][ 66]PIE: Server logged in
+[2023.06.26-19.06.20:336][ 66]PIE: Play in editor total start time 5.343 seconds.
+[2023.06.26-19.06.21:334][ 66]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.06.26-19.06.26:367][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-19.06.26:367][205]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPS_Shooter
+[2023.06.26-19.06.26:368][205]LogSlate: Window 'FirstPersonShooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.06.26-19.06.26:390][205]LogWorld: UWorld::CleanupWorld for FPS_Shooter, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-19.06.26:528][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-19.06.26:570][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-19.06.26:604][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-19.06.26:794][205]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-19.06.26:794][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.06.26-19.06.26:796][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.06.26-19.06.26:966][205]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2023.06.26-19.06.27:127][206]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2023.06.26-19.14.01:101][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2023.06.26-19.14.01:116][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FPS_Shooter" FILE="F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/Maps/FPS_Shooter_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.26-19.14.10:567][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/FPS_Shooter_Auto4
+[2023.06.26-19.14.10:567][983]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FPS_Shooter_Auto45C70FE244DBA3A47DE0FE29846FC91F2.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/Maps/FPS_Shooter_Auto4.umap'
+[2023.06.26-19.14.10:649][983]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPS_Shooter' took 9.643
+[2023.06.26-19.14.10:649][983]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 9.643
+[2023.06.26-19.14.10:650][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Character/FPS_Character] ([2] browsable assets)...
+[2023.06.26-19.14.10:698][983]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Character/FPS_Character.FPS_Character]
+[2023.06.26-19.14.10:698][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Character/FPS_Character]
+[2023.06.26-19.14.10:729][983]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Character/FPS_Character_Auto4
+[2023.06.26-19.14.10:730][983]LogSavePackage: Moving 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/FPS_Character_Auto4C7F44168478AEB7DDC8325AB51B7F363.tmp' to 'F:/UE5_Projects/5_1_FirstPersonShooter/Saved/Autosaves/Game/BluePrints/Character/FPS_Character_Auto4.uasset'
+[2023.06.26-19.14.10:731][983]LogFileHelpers: Auto-saving content packages took 0.081
+[2023.06.26-19.50.15:016][476]LogDerivedDataCache: C:/Users/steven davies/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:29.332 and deleted 0 files with total size 0 MiB. Scanned 48742 files in 41431 folders with total size 5910 MiB.
